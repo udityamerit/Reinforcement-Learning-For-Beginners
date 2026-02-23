@@ -2,6 +2,7 @@ ipykernel
 gymnasium
 swig
 gymnasium[box2d]
+gymnasium[other]
 torch
 pandas
 matplotlib
