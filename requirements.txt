@@ -3,3 +3,5 @@ gymnasium
 swig
 gymnasium[box2d]
 torch
+pandas
+matplotlib
